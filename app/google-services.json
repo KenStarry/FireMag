@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813543695791",
+    "project_id": "firemag-1eaa0",
+    "storage_bucket": "firemag-1eaa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813543695791:android:39d462acf14cf22da6fb5a",
+        "android_client_info": {
+          "package_name": "com.example.firemag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813543695791-hh6co1i316p4bq1ls1aofpnm2tv3r9c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQxf1a5NHC9QF1L0l61Aw4W4rdgR1iy4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813543695791-hh6co1i316p4bq1ls1aofpnm2tv3r9c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
